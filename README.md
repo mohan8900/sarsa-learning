@@ -22,8 +22,8 @@ Update State and Action and repeat the step 3 untill the episodes ends.
 ## SARSA LEARNING FUNCTION
 
 ```
-## NAME: EZHIL MATHI.R
-## REG NO: 212221230026
+## NAME:A K MOHAN RAJ
+## REG NO: 212221230064
 ```
 
 ```python
